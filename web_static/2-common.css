@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 html {
     height: 100%;
 }
@@ -12,4 +13,9 @@ body {
     "container"
     "footer";
     grid-template-rows: calc(70px + 1px) 1fr calc(60px + 1px);
+=======
+body {
+	margin: 0;
+	padding: 0;
+>>>>>>> 5f8c5ccd1a80ad6b69caa1aa1e4e646272db2a0e
 }
